@@ -22,7 +22,7 @@ To use ShadeWave locally, follow these steps:
 
 1. **Clone the repository**:
   
-     git clone](https://github.com/LakinduNimesh/Gradient-Color-Generator)
+     [git clone](https://github.com/LakinduNimesh/Gradient-Color-Generator)
    
 
 2. **Navigate to the project directory**:
@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-nimeshlakindu01@gmail.com](mailto:your-nimeshlakindu01@gmail.com).
+For any inquiries or feedback, please contact [your-nimeshlakindu01@gmail.com](mailto:nimeshlakindu01@gmail.com).
 
 ---
 
