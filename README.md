@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-nimeshlakindu01@gmail.com](mailto:nimeshlakindu01@gmail.com).
+For any inquiries or feedback, please contact [gmail](mailto:nimeshlakindu01@gmail.com).
 
 ---
 
